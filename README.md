@@ -1,7 +1,5 @@
-#All TCS NQT CODING QUESTIONS
 
-
-## Arrays
+## Problems on Arrays
 
 1. [Find the smallest number in an array](https://takeuforward.org/data-structure/find-the-smallest-element-in-an-array/)
 2. [Find the largest number in an array](https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/)
@@ -29,7 +27,7 @@
 24. [Search an element in an array](https://takeuforward.org/data-structure/search-an-element-in-an-array-program-cpp-java/)
 25. [Check if Array is a subset of another array or not](https://takeuforward.org/data-structure/check-if-array-is-subset-of-another-array/ "Check if Array is a subset of another array or not")
 
-## Numbers
+## Problems on Numbers
 
 1. [Check if a number is palindrome or not](https://takeuforward.org/data-structure/check-if-a-number-is-palindrome-or-not/)
 2. [Find all Palindrome numbers in a given range](https://takeuforward.org/data-structure/find-all-palindrome-numbers-in-a-given-range/)
@@ -66,3 +64,52 @@
 33. [Can a number be expressed as a sum of two prime numbers](https://takeuforward.org/data-structure/express-given-number-as-sum-of-two-prime-numbers/ "Can a number be expressed as a sum of two prime numbers")
 34. [Calculate the area of circle](https://takeuforward.org/data-structure/calculate-the-area-of-the-circle/)
 35. [Program to find roots of a Quadratic Equation](https://takeuforward.org/data-structure/program-to-find-roots-of-a-quadratic-equation/)
+
+## Problems on Number System
+
+1. [Convert Binary to Decimal](https://takeuforward.org/data-structure/convert-binary-to-decimal/)
+2. [Convert binary to octal](https://takeuforward.org/data-structure/convert-binary-to-octal/)
+3. [Decimal to Binary conversion](https://takeuforward.org/maths/convert-decimal-to-binary-number/ "Decimal to Binary conversion")
+4. [Convert decimal to octal](https://takeuforward.org/uncategorized/convert-decimal-to-octal/)
+5. [Convert octal to binary](https://takeuforward.org/data-structure/convert-octal-to-binary/)
+6. [Convert octal to decimal](https://takeuforward.org/data-structure/convert-octal-to-decimal/)
+7. [Convert digits/numbers to words](https://takeuforward.org/data-structure/convert-digits-numbers-to-words/)
+
+## Problems on Sorting
+
+1. [Bubble Sort Algorithm](https://takeuforward.org/data-structure/bubble-sort-algorithm/)
+2. [Selection Sort Algorithm](https://takeuforward.org/sorting/selection-sort-algorithm/)
+3. [Insertion Sort Algorithm](https://takeuforward.org/data-structure/insertion-sort-algorithm/)
+4. [Quick Sort Algorithm](https://takeuforward.org/data-structure/quick-sort-algorithm/)
+5. [Merge sort algorithm](https://takeuforward.org/data-structure/merge-sort-algorithm/)
+
+## Problems on String
+
+1. [Check if a given string is palindrome or not](https://takeuforward.org/data-structure/check-if-the-given-string-is-palindrome-or-not/)
+2. [Count number of vowels, consonants, spaces in String](https://takeuforward.org/data-structure/count-number-of-vowels-consonants-spaces-in-string/)
+3. [Find the ASCII value of a character](https://takeuforward.org/data-structure/find-the-ascii-value-of-a-character/)
+4. [Remove all vowels from the string](https://takeuforward.org/data-structure/remove-all-vowels-from-the-string/)
+5. [Remove spaces from a string](https://takeuforward.org/data-structure/remove-spaces-from-a-string/)
+6. [Remove characters from a string except alphabets](https://takeuforward.org/data-structure/remove-characters-from-a-string-except-alphabets/)
+7. [Reverse a String](https://takeuforward.org/data-structure/reverse-a-string/)
+8. [Remove brackets from an algebraic expression](https://takeuforward.org/data-structure/remove-brackets-from-an-algebraic-expression/ "Remove brackets from an algebraic expression")
+9. [Sum of the numbers in a String](https://takeuforward.org/data-structure/sum-of-the-numbers-in-a-string/)
+10. [Capitalize first and last character of each word](https://takeuforward.org/string/capitalize-first-and-last-character-of-each-word-of-a-string/)
+11. [Calculate frequency of characters in a string](https://takeuforward.org/data-structure/calculate-frequency-of-characters-in-a-string/)
+12. [Find Non-repeating characters of a String](https://takeuforward.org/data-structure/find-non-repeating-characters-of-a-string/)
+13. [Check if two strings are anagram of each other](https://takeuforward.org/data-structure/check-if-two-strings-are-anagrams-of-each-other/)
+14. Count common sub-sequence in two strings
+15. Check if two strings match where one string contains wildcard characters
+16. [Return maximum occurring character in the input string](https://takeuforward.org/data-structure/maximum-occurring-character-in-a-string/ "Return maximum occurring character in the input string")
+17. [Remove all duplicates from the input string](https://takeuforward.org/data-structure/remove-all-duplicates-from-a-string/ "Remove all duplicates from the input string").
+18. [Print all the duplicates in the input string](https://takeuforward.org/data-structure/print-all-the-duplicates-in-the-string/ "Print all the duplicates in the input string").
+19. [Remove characters from first string present in the second string](https://takeuforward.org/data-structure/remove-characters-from-first-string-present-in-the-second-string/)
+20. [Change every letter with the next lexicographic alphabet in the given string](https://takeuforward.org/data-structure/change-every-letter-with-next-lexicographic-alphabet/)
+21. [Write a program to find the largest word in a given string](https://takeuforward.org/data-structure/find-the-largest-word-in-a-string/ "Write a program to find the largest word in a given string").
+22. [Write a program to sort characters in a string](https://takeuforward.org/data-structure/write-a-program-to-sort-characters-in-a-string/)
+23. [Count number of words in a given string](https://takeuforward.org/data-structure/count-the-number-of-words-in-a-given-string/)
+24. [Write a program to find a word in a given string which has the highest number of repeated letters](https://takeuforward.org/data-structure/find-word-with-highest-number-of-repeated-letters-in-string/ "Write a program to find a word in a given string which has the highest number of repeated letters")
+25. [Change case of each character in a string](https://takeuforward.org/data-structure/change-case-of-each-character-in-a-string/)
+26. [Concatenate one string to another](https://takeuforward.org/data-structure/concatenate-one-string-to-another/)
+27. [Write a program to find a substring within a string. If found display its starting position](https://takeuforward.org/data-structure/find-the-position-of-a-substring-within-a-string/ "Write a program to find a substring within a string. If found display its starting position")
+28. [Reverse words in a string](https://takeuforward.org/data-structure/reverse-words-in-a-string/)
