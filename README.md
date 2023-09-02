@@ -1,5 +1,5 @@
 
-## Problems on Arrays
+##Arrays
 
 1. [Find the smallest number in an array](https://takeuforward.org/data-structure/find-the-smallest-element-in-an-array/)
 2. [Find the largest number in an array](https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/)
@@ -65,7 +65,7 @@
 34. [Calculate the area of circle](https://takeuforward.org/data-structure/calculate-the-area-of-the-circle/)
 35. [Program to find roots of a Quadratic Equation](https://takeuforward.org/data-structure/program-to-find-roots-of-a-quadratic-equation/)
 
-## Problems on Number System
+## Number System
 
 1. [Convert Binary to Decimal](https://takeuforward.org/data-structure/convert-binary-to-decimal/)
 2. [Convert binary to octal](https://takeuforward.org/data-structure/convert-binary-to-octal/)
@@ -75,7 +75,7 @@
 6. [Convert octal to decimal](https://takeuforward.org/data-structure/convert-octal-to-decimal/)
 7. [Convert digits/numbers to words](https://takeuforward.org/data-structure/convert-digits-numbers-to-words/)
 
-## Problems on Sorting
+## Sorting [4,5 Pending]
 
 1. [Bubble Sort Algorithm](https://takeuforward.org/data-structure/bubble-sort-algorithm/)
 2. [Selection Sort Algorithm](https://takeuforward.org/sorting/selection-sort-algorithm/)
@@ -83,7 +83,7 @@
 4. [Quick Sort Algorithm](https://takeuforward.org/data-structure/quick-sort-algorithm/)
 5. [Merge sort algorithm](https://takeuforward.org/data-structure/merge-sort-algorithm/)
 
-## Problems on String
+## String [14,15 pending]
 
 1. [Check if a given string is palindrome or not](https://takeuforward.org/data-structure/check-if-the-given-string-is-palindrome-or-not/)
 2. [Count number of vowels, consonants, spaces in String](https://takeuforward.org/data-structure/count-number-of-vowels-consonants-spaces-in-string/)
