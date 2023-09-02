@@ -1,5 +1,5 @@
 
-##Arrays
+## Arrays
 
 1. [Find the smallest number in an array](https://takeuforward.org/data-structure/find-the-smallest-element-in-an-array/)
 2. [Find the largest number in an array](https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/)
@@ -27,7 +27,7 @@
 24. [Search an element in an array](https://takeuforward.org/data-structure/search-an-element-in-an-array-program-cpp-java/)
 25. [Check if Array is a subset of another array or not](https://takeuforward.org/data-structure/check-if-array-is-subset-of-another-array/ "Check if Array is a subset of another array or not")
 
-## Problems on Numbers
+## Numbers
 
 1. [Check if a number is palindrome or not](https://takeuforward.org/data-structure/check-if-a-number-is-palindrome-or-not/)
 2. [Find all Palindrome numbers in a given range](https://takeuforward.org/data-structure/find-all-palindrome-numbers-in-a-given-range/)
