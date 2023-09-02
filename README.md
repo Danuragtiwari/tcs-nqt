@@ -83,7 +83,7 @@
 4. [Quick Sort Algorithm](https://takeuforward.org/data-structure/quick-sort-algorithm/)
 5. [Merge sort algorithm](https://takeuforward.org/data-structure/merge-sort-algorithm/)
 
-## String [14,15 pending]
+## String 
 
 1. [Check if a given string is palindrome or not](https://takeuforward.org/data-structure/check-if-the-given-string-is-palindrome-or-not/)
 2. [Count number of vowels, consonants, spaces in String](https://takeuforward.org/data-structure/count-number-of-vowels-consonants-spaces-in-string/)
