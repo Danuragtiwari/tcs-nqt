@@ -3,8 +3,8 @@
 # Input : S = “ajblqcpdz”, T = “aefcnbtdi” 
 # Output : 11 
 # Common subsequences are : { “a”, “b”, “c”, “d”, “ab”, “bd”, “ad”, “ac”, “cd”, “abd”, “acd” }
-# a='string'
-# b='sting'
+a='string'
+b='sting'
 # Geeting tle
 # n=len(a)
 # m=len(b)
@@ -18,3 +18,8 @@
 # 		        dp[i][j]=dp[i][j - 1] + dp[i - 1][j] -dp[i - 1][j - 1]
                             
 # return dp[n][m]
+
+
+# using set
+c = set(a) & set(b)
+print(c)
